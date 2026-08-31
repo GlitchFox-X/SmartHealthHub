@@ -1,0 +1,4 @@
+PyQt5>=5.15.0
+pyserial>=3.5
+reportlab>=3.6.0
+pyqtgraph>=0.11.0

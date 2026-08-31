@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Smart Health Hub
+Comment=Smart Health Monitoring System
+Exec=python3 /home/pi/SmartHealthHub/main.py
+Icon=health
+Terminal=false
+Categories=Utility;Application;
+StartupNotify=true
